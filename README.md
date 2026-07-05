@@ -1,7 +1,7 @@
 ### 👋 Hello! Nice to see you.
 
 Welcome to my page!
-I'm **Okunoye Quyyum**, a Lagos-based Cybersecurity Intern | Google Cloud Security Associate | SOC Analyst, passionate about network & web app security, threat detection, and sharpening my ethical-hacking and penetration-testing toolkit.
+I'm **Okunoye Quyyum**, a Cybersecurity Intern | Google Cloud Security Associate | SOC Analyst, passionate about network & web app security, threat detection, and sharpening my ethical-hacking and penetration-testing toolkit.
 
 I validate findings across every layer — network, host, and application — using a layered testing methodology (automated scans → manual proof-of-concept exploits) to reduce false positives and uncover chained vulnerabilities. I like going beyond "here's what's wrong" into root-cause analysis using logs and packet captures.
 
