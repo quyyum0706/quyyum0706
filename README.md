@@ -13,7 +13,7 @@ Computer Science student transitioning into cybersecurity, with a focus on break
 ### 🎓 Certifications
 ![Cybersecurity Foundation Program](https://img.shields.io/badge/-Cybersecurity%20Foundation%20Program-1B2A4A?style=for-the-badge)
 ![Google Cloud Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cloud%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cisco Basic Networking](https://www.credly.com/badges/12e990db-6dc9-49aa-8caa-d67a3e501ff2/public_url)
+![Cisco Basic Networking](https://img.shields.io/badge/-Cisco%20Basic%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
